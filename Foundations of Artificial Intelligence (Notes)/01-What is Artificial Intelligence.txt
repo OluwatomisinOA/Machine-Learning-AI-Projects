@@ -1,0 +1,27 @@
+What is Artificial Intelligence?
+- AI is the simulation of human intelligence in machines.
+- Encompasses reeasoning, learning, perception and problem solving.
+- Evolved over decades: from logic-based systems to deep learning.
+- Goal: Build systems that can adapt, learn, and perform tasks autonomously.
+
+Types of AI
+- Narrow AI: Performs specific tasks. eaxmples of them are recommendation algorithms, speech recognition tools, facial recognition apps.(e.g, Siri, Google Translate).
+- General AI: Human-level intelligence across tasks (still theoretical).
+- Superintelligent AI: Surpasses human intelligence (futuristic concept).
+
+Key Capabilities of AI Systems
+- Machine Learning: Enable systems to learn from data.
+- Natural Language Processing: Understanding and generating human language.
+- Computer Vision: Interpreting visual inputs like images and video.
+- Robotics: Acting upon the physical world based on AI reasoning.
+
+Milestones in the History of AI
+- 1956: AI coined at Dartmouth Conference
+- 1997: IBM's Deep Blue defeats chess champion Garry Kasparov
+- 2012: Breakthrough in deep learning with ImageNet
+- 2016: AlphaGo defeats world Go champion Lee Sedol
+
+The Scope and Impact of AI Today
+- Ubiquitous in everyday life: phones, recommendations, assistants
+- Driving innovation in industries: health, finance, law, education
+- Powering smart cities, autonomous vehicles, and personalized medicine

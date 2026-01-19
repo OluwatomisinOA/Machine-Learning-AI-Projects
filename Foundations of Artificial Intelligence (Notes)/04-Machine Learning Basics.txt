@@ -1,0 +1,50 @@
+What is Machine Learning
+- ML enables systems to learn from data without explicit programming
+- Model identifies patterns, make predictions, and improve with experience
+- Core to modern AI applications across industries
+- ML != Hardcoded rules; it's adaptive and data-driven
+
+Categories of Machine Learning
+- Supervised Learning: labeled data -> prediction (classification, regression)
+- Unsupervised Learning: unlabeled data -> structure (clustering, PCA)
+- Reinforcement Learning: agents learn via rewards and punishments
+- Semi-supervised and self-supervised learning: hybrid approaches
+
+The Machine Learning Workflow
+- Collect and clean data
+- Split data: training, validation, testing
+- Choose and train a model
+- Evaluate and optimize performance
+- Deploy and monitor in the real world
+
+Key Algorithms in Supervised Learning
+- Linear Regression (relationships between features and a continuous output) and logistic regression (for binary classification)
+- Decision trees (create flowchart like modeles and are easy to interpret and random forests(ensembles of decisiontrees that improve accuracy and robustness.
+- Support vector machines (SVMs) find hyperplanes that best eparate classes
+- k-nearest neighbours (KNN) classify by majority vote among the closest data points
+- Neural networks stimulate brain like connections and are suited for complex patterns, especially in vision, speech and text
+
+Evaluation Metrics
+- Accuracy: correct predictions / total
+- Precision & Recall: performance on positives
+- F1-Score: harmonic mean of precision and recall
+- Confusion matrix: breakdown of true/false positives/negatives
+- RMSE, MAE: for regression tasks
+
+Bias, Variance, and Overfitting
+- Underfitting: high bias, poor trainning performance
+- Overfitting: high variance, poor generalization
+- Goal: balance bias and variance for optimal performance
+- Use regularization, cross-validation, and pruning
+
+Feature Engineering and Selection
+- Good features > complex models
+- Normalize, scale, encode, and extract meaningful signals
+- Dimensionality reduction (PCA, t-SNE)
+- Avoid multicollinearity and irrelevant features
+
+From ML to Deep Learning
+- ML: interpretable, less data, lower compute
+- DL: complex models, huge data, GPU-powered
+- Transition when data grows or patterns are nonlinear
+- Both coexist in modern AI stacks

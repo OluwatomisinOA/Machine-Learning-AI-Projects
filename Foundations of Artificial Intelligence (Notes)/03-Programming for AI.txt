@@ -1,0 +1,41 @@
+Why Programming Matters in AI
+- Programming bridges math and real-world AI applications
+- Python is the most widely used AI language
+- Enables model creation, training, deployment, and automation
+- Libraries simplifies complex mathematical operations
+
+Python - The Language of AI
+- Readable. flexible and dynamically typed
+- Huge ecosystem: Numpy. Pandas, Scikit-Learn, TensorFlow, Pytorch
+- Ideal for experimenting and rapid prototyping
+- Widely adopted in academia and industry
+
+Numpy and Pandas - Data Wrangling Essentials
+- Numpy: fast numerical computations, arrays, matrix operations
+- Pandas: dataframes, CSV handling, data cleaning
+- Both are foundational for ML preprocessing
+- Efficient manipulaton of structured and unstructured data
+
+Scikit-Learn - Traditional Machine Learning Made Easy
+- Implements algorithms: regression, classification, clustering
+- Easy to train, evaluate, and tune models
+- Offers pipelines, preprocessing, and model selection tools
+- Ideal for beginners and classical ML workflows
+
+TensorFlow and Pytorch - Powering Deep Learning
+- TensorFlow: scalable, production-ready, great for deployment
+- Pytorch: intuitive, dynamic graphs, loved by researchers
+- Both support neural nets, GPUs, and large-scale training
+- Choose based on project needs: experimentation vs deployment
+
+Streamlit and FastAPI - Building AI Apps
+- Streamlif: create web apps with Python scripts
+- FastAPI: build RESTful APIs for AI models
+- Enable deployment of AI to users and systems
+- Critical for turning models into uable tools
+
+Programming Skills for AI
+- Write modular, reusable an readable code
+- Use Git for version control and collaboration
+- Debug, profile, and tests models systematically
+- Learn by building projects and solving real-world problems

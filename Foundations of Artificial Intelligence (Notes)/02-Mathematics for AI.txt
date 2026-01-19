@@ -1,0 +1,36 @@
+Why Math is Essential for AI
+- AI models are mathematical functions at their core
+- Math enables pattern recognition, optimization, and learning
+- Builds intuition for alforithms, model behaviour, and performance
+- Essential for designing, tuning and debugging AI systems
+
+Linear Algebra - The Geometry of Data
+- Vectors and matrices represent data and weights
+- Matrix multiplication powers neutral network layers
+- Key concepts: dot product, transpose, identitu, inverse
+- Eigenvalues and eigenvectors in PCA and dimensionality reduction
+- It is how data flows and transform within AI model
+
+Probability and Statistics - Learning from Uncertainty
+- Probability models uncertainty in data and predictions
+- Key concepts: conditional probability, Bayes' theorem, distributions
+- Statistics describe and summarize data
+- Central to probabilisitic models, Naive Bayes, GANs (), and more
+
+Calculus and Optimization - The Engine of Learning
+-Derivatives measure change; used in backpropagation
+- Gradient descent minimizes model loss functions
+- Optimization drives model training and parameter tuning
+- Partial derivatives and chain rule are critical in neural nets
+
+Optimization Techniques 
+- Loss functions: MSE, cross-entropy, hinge loss
+- Optimizers, SGD, Adam, RMSProp
+- Regularization: L1, l2, dropout to avoid overfitting
+- Learning rate scheduling and convergence tricks
+
+Putting It All Together
+- AI = Data + Model + Math
+- Linear algebra structures data
+- Probability inteprets uncertainty
+- Calculus + optimization makes learning possible
