@@ -1,0 +1,47 @@
+What is NLP?
+- NLP = AI + Linguistics: enabling machines to understand human language
+- Converts unstructured text to structured meaning
+- Powers chatbots, translators, summarizers, sentiment analyzers
+- At the heart of LLMs like ChatGPT< Claude, Gemini
+
+The NLP Pipeline
+- Text preprocessing: tpkenization (split sentences into words or phrases), normalization (converts to lowercase, removes punctuation), stop word removal(eliminates common words)
+- Feature extraction: TF-IDF, word embeddings
+- Model training: supervised/unsupervised/deep learning
+- Postprocessing: predictions, summaries, translations
+
+Classical NLP Techniques
+- Rule-based systems: grammar, syntax parsing
+- Bag of Words (represents text by word frequency, good for classifications but loses word order) and TF-IDF for document classification (enchances by BOW by downgrading common words and emphasizing unique ones)
+N-grams for context and word sequence patterns
+- Named Entity Recognition (NER, Part-of-Speech (POS) tagging
+
+Word Embeddings - Capturing Meaning
+- Converts words into dense vectors capturing meaning
+- Word2Vec and Glove: learn relationships through context
+- Semantic similiarity and analog solving
+- Foundations of neural NLP models
+
+Deep Learning for NLP
+- RNNs handle sequential data, LSTMs solve long-term dependency issues
+- CNNs extract local n-gram features from text
+- Attention mechanism allow models to focus on key words
+- Transformers replace recurrence with self-attention
+
+Transformers and LLMs
+- Transformer architecture underlines BERT (Bidirectional Encoder Representation fro Transformers), GPT (Generative Pre-trained Transformer), T5, etc.
+- Pretraining on massive text datasts, then fine-tuning
+- Bidirectional (BERT) vs autogressive (GPT) models
+- Foundation for chatbots, coding assistants, research summarizers
+
+Real-World Applications of NLP
+- Virtual assistants: Siri, Alexa, Google assitants
+- Customer support: chatnots, email routing
+- Translation and transcription (Google Translate, Whisper)
+- Sentiment analysis, content moderation, legal and medical NLP
+
+Challenges and Ethical Considerations
+- Bias and toxicity in training data
+- Hallucination: generating false but com=nfident responses
+- Explainability and accpuntability
+- Misinformation, manipulation, and deepfake text

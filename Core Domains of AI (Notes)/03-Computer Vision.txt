@@ -1,0 +1,48 @@
+What is Computer Vision?
+- Enables machines to interpret and process visual data
+- Uses images, videos, and real-time camera feeds
+- Core to self-driving cars, facial recognition, medical imaging
+- Transforms pixels into predictions and insights
+
+The Computer Vision Pipeline
+- Image acquisition: camera feeds, file uploads, sensors
+- PreprocessingP: resizing, normalization, augmentation
+- Feature extraction: edges, shapes, textures
+- Classification, detection, or segmentation
+
+Traditional vs Deep Learning Approaches
+- Traditional CV: manual features + classifiers (SIFT (Scale Invariant Feature Transform), HOG (Histogram of Oriented Gradients), SVM)
+- Deep CV: CNNs automatically learn features
+- Deep Learning vastly outperforms on complex tasks
+- Less feature engineering, more scalability
+
+Convolutional Neural Networks (CNNs)
+- Use filters (kernels) to detect patterns in images
+- Layers: convolution (applies filters to capture features) -> activation (e.g. ReLU, adds non-linearity) -> pooling (e.g max pooling, reduces spatial dimensions and computation) -> fully connected (fully connected layers use extracted features to make predictions)
+- Hierarchical feature learning (edges -> textures -> objects)
+- Backbone of modern CV systems
+
+Key Computer Vision Tasks
+- Image Classification: assign label to entire image
+- Object Detention: locate and classify multiple objects
+- Semantic Segmentation: classify each pixel
+- Instance Segmentation: detect and differentiate individual objects
+
+Advanced Vision Models
+- ResNet: deep residual networks, overcome vanishing gradients
+- YOLO: real-time object detention
+- Mask R-CNN: combines detection and segmentation
+- Vision Transformers (ViTs): use attention for visual tasks
+
+Applications of Computer Vision
+-Healthcare: cancer detection, radiology, surgery navigation
+- Transportation: autonomous driving, traffic analysis
+- Security: surveillance, facial recognition, anomaly detection
+- Retail: casheirless checkout, shelf monitoring
+- Agriculture: crop monitoring, pest detection
+
+Challenges and Ethical Issues
+- Bias in training data (racial gender, geographic)
+- Privacy concerns (facial recognition, surveillance)
+- Dataset labelling and copyright issues
+- Adversarial attacks: small changes, big misclassifications

@@ -1,0 +1,47 @@
+What is Deep Learning?
+- Subset of machine learning using neural network with multiple layers
+- Automatically extract features from raw data
+- Excels with large, comples datasets (images, text, audio)
+- Powers modern breakthroughs in AI (GPT, DALL·E, AlphaFold)
+
+Anatomy of a Neutral Network
+- Layers: input, hidden, output
+- Neurons: process and transmit signals
+- Weigkts and biases: parameters learned during training
+- Activation functions introduce non-linearity (ReLU, sets all negative values to zero; Sigmoid, maps values between 0 & 1; Tanh, maps between and 1 & 1)
+
+Foward & Backward Propagation
+- Foward pass: input -> prediction
+- Loss function measures error
+- Backporpagation computes gradient
+- Gradient descent updates weights to minimize loss
+
+Key Neural Network
+- Feedforward Neural Networks (FNNS): basic fully-connected layers
+- Convolutional Neural Netwroks (CNNS): designed for images
+- Reccurent Neural Networks (RNN): sequential data (e.g., text, time series)
+- Transformers: attention-based models for NLP and vision
+
+Training Deep Networks
+- Need large datasets and compute (often GPUs)
+- Overfitting is a major challenge
+- Techniques: dropout, batch normalization, data augmentation
+- Monitor training with loss curves and validation accuracy
+
+Deep Learning Frameworks
+- Tensorflow and Keras: modular and production-ready
+- PyTorch: dynamic computation, intuitive syntax
+- Hugging Face: pretrained models and NLP pipelines
+- ONNX and TorchScript for deployment
+
+Applications of Deep Learning
+- Computer vision: facial recognition, autonomous vehicles, medical imaging
+- NLP: chatbots, translation, sentiment analysis, summarization
+- Generative AI: image synthesis (DALL·E), text generaiton (GPT)
+- Scientific discovery: drug design, protein folding (AlphaFold)
+
+Ethical Coniderations in Deep Learning
+- Data privacy and consent
+- Bias in training data and model predictions
+- Explainability and transparency
+- Model misuse: deepfakes, misinformation, surveillance
